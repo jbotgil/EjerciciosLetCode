@@ -71,7 +71,7 @@ mvn compile
 ## 📫 Contacto
 
 - GitHub: [jbotgil](https://github.com/jbotgil)
-- LeetCode: [Perfil de usuario](https://leetcode.com/)
+- LeetCode: [Perfil de usuario](https://leetcode.com/jbotgil/)
 
 ---
 
