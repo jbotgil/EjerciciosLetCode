@@ -1,7 +1,6 @@
 # 🧑‍💻 Ejercicios LeetCode en Java
 
 [![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)](https://www.oracle.com/java/) 
-[![Maven](https://img.shields.io/badge/Maven-Build-blue?logo=apache-maven&logoColor=white)](https://maven.apache.org/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?logo=leetcode&logoColor=black)](https://leetcode.com/) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jbotgil/EjerciciosLetCode)](https://github.com/jbotgil/EjerciciosLetCode) 
 [![Repo size](https://img.shields.io/github/repo-size/jbotgil/EjerciciosLetCode)](https://github.com/jbotgil/EjerciciosLetCode)
