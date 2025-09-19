@@ -20,10 +20,6 @@ public class Main {
     Input: list1 = [], list2 = [0]
     Output: [0]
     */
-   /* public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode listaFinal = new ListNode();
-        return listaFinal;
-    }*/
 
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         // Nodo ficticio para simplificar el inicio
